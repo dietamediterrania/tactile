@@ -44,18 +44,18 @@ No pensem en cap moment d’on prové el aliments. Crec que no les planteiem per
 
 ### Trencant mites
 ## 1. No hi ha prou aliments per a tota la població mundial. Veritat o Fals?
-#### Fals
+### Fals
 
 ## 2. Cal més ajuda internacional per combatre la fam. Veritat o Fals?
-#### Veritat
+### Veritat
 
 ## 3. La majoria de les persones que passen fam són productores d’aliments. Veritat o Fals?
-#### Fals
+### Fals
 
 ## 4. El principal problema alimentari és no disposar de prou quantitat de menjar. Veritat o Fals?
-#### Fals
+### Fals
 
 ## 5. Cada vegada tenim més varietat d’aliments a la nostra disposició. Veritat o Fals?
-#### Veritat
+### Veritat
 
 
