@@ -44,19 +44,19 @@ No pensem en cap moment d'on prové els aliments. Crec que no les plantegem perq
 
 ### Trencant mites
 ## 1. No hi ha prou aliments per a tota la població mundial. Veritat o Fals?
- Fals
+ Fals. No és el mateix que no hi hagui aliments per tothom a què no tots puguin aconseguir aquests aliments
 
 ## 2. Cal més ajuda internacional per combatre la fam. Veritat o Fals?
- Veritat
-
+ Veritat. Els països que disposen de molts recursos podrien ajudar als que disposen d'una quantitat molt baixa de recursos fonamenta'ls.
+ 
 ## 3. La majoria de les persones que passen fam són productores d’aliments. Veritat o Fals?
-Fals
+Fals. No té res a veure el fet de treballar en la producció d'aliments a passar fam. De fet, el treball et dona diners, i els diners et donen menjar
 
 ## 4. El principal problema alimentari és no disposar de prou quantitat de menjar. Veritat o Fals?
-Fals
+Fals. El principal problema alimentari és la pobresa arreu del món
 
 ## 5. Cada vegada tenim més varietat d’aliments a la nostra disposició. Veritat o Fals?
-Veritat
+Veritat. Cada vegada la gent es torna vegana o vegetariana i s'han de fabricar aliments per a ells. Per exemple pels vegans fan salsitxes fetes sense carn
 
 ### UNA BONA DIETA ÉS EL SECRET...
 ## MENÚ (aperitiu + 2 plats + postre)
