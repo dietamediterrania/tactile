@@ -28,7 +28,7 @@ Experts confirmen que la dieta mediterrània està associada a una major longevi
 
 
 ### El mercat transparent
-# D’on procedeixen les verdures i fruites que consumiu a casa? On compreu habitualment?
+## D’on procedeixen les verdures i fruites que consumiu a casa? On compreu habitualment?
 Els aliments que consumim a les nostres cases procedeixen de les fruteries que la majoria compren els seus productes al mercabarna. Els aliments els comprem habitualment a les fruiteries, carnisseries i al mercat
 
 ## D’on procedeix la carn que consumim? tenim opcions per elegir? i informació?
