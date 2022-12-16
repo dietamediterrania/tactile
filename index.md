@@ -1,123 +1,43 @@
----
-layout: default
----
+#### La dieta mediterrània
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+![Alt text](/docs/Dieta.png)
 
-[Link to another page](./another-page.html).
+### Introducció
 
-There should be whitespace between paragraphs.
+## Què és la dieta mediterrània?
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+La dieta mediterrània és un tipus de dieta que és bassa en aliments tradicionals dels diferents països que envolten el mar Mediterrani.
+La finalitat d'aquesta dieta és complementar l'exercici físic i el clima dels països.
 
-# Header 1
+## De quins aliments està compost?
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+Està compost per llegum, verdures, fruites, peix, carn blanca, pasta, arròs i fruits secs. A més del consum moderat de vi. Un dels productes que més recomana aquesta dieta és l'oli d'oliva, ja que gràcies als seus àcids redueix la possibilitat de problemes arterials i té un gran contingut de vitamina E
 
-## Header 2
+## Quina és la seva finalitat?
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+La seva finalitat es aportar-nos beneficis com per exemple el rendiment a l’hora de fer exercici físic, per tant també ens ajuda a baixar de pes, controlar la pressió arterial i la hipercolesterolemia.La pratica d’excersisi ens ajuda a prevenir la diabetes o el alzheimer.
 
-### Header 3
+## Quan va aparèixer?
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+Les primeres referències científiques a una dieta mediterrània són de l'any 1948.
+La va inventar l'epidemiòleg Leland G. Allbaugh.
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+## Que diuen els experts sobre aquesta dieta?
 
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+Experts confirmen que la dieta mediterrània està associada a una major longevitat. La dieta mediterrània està associada a "una major longevitat, una millor salut cardiovascular, la reducció del risc de càncer i també a beneficis per a la funció cognitiva de persones de la tercera edat".
 
 
-### Definition lists can be used with HTML syntax.
+### El mercat transparent
+# D’on procedeixen les verdures i fruites que consumiu a casa? On compreu habitualment?
+Els aliments que consumim a les nostres cases procedeixen de les fruteries que la majoria compren els seus productes al mercabarna. Els aliments els comprem habitualment a les fruiteries, carnisseries i al mercat
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
+# D’on procedeix la carn que consumim? tenim opcions per elegir? i informació?
+La carn que comprem és produïda aquí mateix, la mateixa Catalunya és la primera productora de carn d'aus i les diferents carns provenen de països veïns.
 
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
 
-```
-The final element.
-```
+#El peix que consumim, d’on procedeix? és peix pescat al voltant de Cornellà?, és fresc?, és legal?
+La gran majoria del peix que comprem, procedeix de senegal i països al voltant d'aquest
+
+
+#A casa nostra ens plantegem aquestes qüestions?, perquè creiem que les plantegem o que no les plantegem?
+No pensem en cap moment d’on prové el aliments. Crec que no les planteiem perque no pensem en les desavantatges que en pot aportar
