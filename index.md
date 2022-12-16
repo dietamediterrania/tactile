@@ -1,6 +1,6 @@
 ### La dieta mediterrània
 Edu, Claudia, Sara, Jean Carlos
-![Alt text](/docs/Dieta.png)
+![Octocat](/docs/Dieta.png)
 
 ### Introducció
 
