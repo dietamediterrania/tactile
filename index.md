@@ -85,14 +85,14 @@ El comerç just és una forma alternativa de comerç que té com a objectiu canv
 ## Què són els TRANSGÈNICS? (arguments a favor i en contra)
 Els transgenics son aliments que han sigut modificats amb bacteris d’altres aliments o fins i tot d’animals com porcs.
 
-     ## A favor:
+##      A favor:
 
        -Aquests aliments estan sotmesos a molts estudis, pel qual pots garantir el fet que no "hi hauria" de tenir cap bacteri que et pugui perjudicar
 
        -Els aliments transgènics no et poden perjudicar perquè parteixen d'un aliment "normal"
 
 
-     ## En contra:
+##      En contra:
 
        -Grans empreses afirmen les conseqüències irreversibles de l'obtenció d'aliments transgènics. Com per exemple la contaminació tant del terra com la genètica             dels aliments amb tòxics
 
