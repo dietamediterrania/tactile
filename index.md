@@ -87,16 +87,18 @@ Els transgenics son aliments que han sigut modificats amb bacteris d’altres al
 
 ##      A favor:
 
-   ·Aquests aliments estan sotmesos a molts estudis, pel qual pots garantir el fet que no "hi hauria" de tenir cap bacteri que et pugui perjudicar
+   · Aquests aliments estan sotmesos a molts estudis, pel qual pots garantir el fet que no "hi hauria" de tenir cap bacteri que et pugui perjudicar
 
-   ·Els aliments transgènics no et poden perjudicar perquè parteixen d'un aliment "normal"
+   · Els aliments transgènics no et poden perjudicar perquè parteixen d'un aliment "normal"
 
 
 ##      En contra:
 
-   ·Grans empreses afirmen les conseqüències irreversibles de l'obtenció d'aliments transgènics. Com per exemple la contaminació tant del terra com la genètica             dels aliments amb tòxics
+   · Grans empreses afirmen les conseqüències irreversibles de l'obtenció d'aliments transgènics. Com per exemple la contaminació tant del terra com la genètica             dels aliments amb tòxics
 
-   ·L'experimentació d'aquestes bateries en aliments podrien provocar la resistència a 
+   · L'experimentació d'aquestes bateries en aliments podrien provocar la resistència a 
     un gran tipus d'antibiòtics en aquestes bateries
+    
+
 
 
