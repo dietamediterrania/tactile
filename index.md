@@ -41,3 +41,4 @@ La gran majoria del peix que comprem, procedeix de senegal i països al voltant 
 
 #A casa nostra ens plantegem aquestes qüestions?, perquè creiem que les plantegem o que no les plantegem?
 No pensem en cap moment d’on prové el aliments. Crec que no les planteiem perque no pensem en les desavantatges que en pot aportar
+
