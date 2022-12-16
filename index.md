@@ -58,4 +58,11 @@ Fals
 ## 5. Cada vegada tenim més varietat d’aliments a la nostra disposició. Veritat o Fals?
 Veritat
 
+### UNA BONA DIETA ÉS EL SECRET...
+## MENÚ (aperitiu + 2 plats + postre)
+
+##### aperitiu →  olivas
+##### 1r plat →  gaspatxo
+##### 2n plat → Paellla 
+##### postre →  tronja
 
