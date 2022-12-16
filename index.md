@@ -1,6 +1,5 @@
 Xarxes Socials:
-
--[@dietameditarrania3r](https://www.tiktok.com/@dietameditarrania3r).
+-[@dietameditarrania3r](https://www.tiktok.com/@dietameditarrania3r)
 
 
 ### La dieta mediterrània
