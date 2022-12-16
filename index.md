@@ -1,4 +1,4 @@
-#### La dieta mediterrània
+### La dieta mediterrània
 
 ![Alt text](/docs/Dieta.png)
 
