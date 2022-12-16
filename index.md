@@ -42,3 +42,20 @@ La gran majoria del peix que comprem, procedeix de senegal i països al voltant 
 ## A casa nostra ens plantegem aquestes qüestions?, perquè creiem que les plantegem o que no les plantegem?
 No pensem en cap moment d’on prové el aliments. Crec que no les planteiem perque no pensem en les desavantatges que en pot aportar
 
+### Trencant mites
+## 1. No hi ha prou aliments per a tota la població mundial. Veritat o Fals?
+FALS
+
+## 2. Cal més ajuda internacional per combatre la fam. Veritat o Fals?
+Veritat
+
+## 3. La majoria de les persones que passen fam són productores d’aliments. Veritat o Fals?
+Fals
+
+## 4. El principal problema alimentari és no disposar de prou quantitat de menjar. Veritat o Fals?
+Fals
+
+## 5. Cada vegada tenim més varietat d’aliments a la nostra disposició. Veritat o Fals?
+Veritat
+
+
