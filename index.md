@@ -1,3 +1,7 @@
+Xarxes Socials:
+-[@dietameditarrania3r](https://www.tiktok.com/@dietameditarrania3r).
+
+
 ### La dieta mediterrània
 Edu, Claudia, Sara, Jean Carlos
 ![Octocat](/docs/Dieta.png)
