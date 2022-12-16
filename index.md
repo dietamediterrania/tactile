@@ -44,19 +44,19 @@ No pensem en cap moment d'on prové els aliments. Crec que no les plantegem perq
 
 ### Trencant mites
 ## 1. No hi ha prou aliments per a tota la població mundial. Veritat o Fals?
- Fals. No és el mateix que no hi hagui aliments per tothom a què no tots puguin aconseguir aquests aliments
+ Fals. Es produeixen cereals suficients per a proveir 3.500 kcal diàries a cada ésser humà del planeta (les calories diàries necessàries ronden les 2.000 kcal). 
 
 ## 2. Cal més ajuda internacional per combatre la fam. Veritat o Fals?
- Veritat. Els països que disposen de molts recursos podrien ajudar als que disposen d'una quantitat molt baixa de recursos fonamenta'ls.
+ Fals (tot i que és veritat en part). L’ajuda internacional és cada cop més urgent i necessària per pal·liar els efectes de la desnutrició, però la fam és conseqüència d’un problema estructural del sistema alimentari mundial que no es podrà resoldre només amb ajuda humanitària. 
  
 ## 3. La majoria de les persones que passen fam són productores d’aliments. Veritat o Fals?
-Fals. No té res a veure el fet de treballar en la producció d'aliments a passar fam. De fet, el treball et dona diners, i els diners et donen menjar
+Veritat. La FAO (organisme de la ONU especialista en matèria d’alimentació i agricultura) reconeix que el 70% de les persones que passen fam són productores d’aliments. 
 
 ## 4. El principal problema alimentari és no disposar de prou quantitat de menjar. Veritat o Fals?
-Fals. El principal problema alimentari és la pobresa arreu del món
+Fals. És una qüestió de quantitat però també de qualitat. Cal assegurar tots els nutrients necessaris per a un desenvolupament saludable. La malnutrició és un problema en augment també als països del nord. 
 
 ## 5. Cada vegada tenim més varietat d’aliments a la nostra disposició. Veritat o Fals?
-Veritat. Cada vegada la gent es torna vegana o vegetariana i s'han de fabricar aliments per a ells. Per exemple pels vegans fan salsitxes fetes sense carn
+Fals. Cada cop podem triar menys. Les grans empreses de l’agroindústria i la distribució d’aliments homogeneïtzen cada cop més la oferta. 
 
 ### UNA BONA DIETA ÉS EL SECRET...
 ## MENÚ (aperitiu + 2 plats + postre)
