@@ -15,7 +15,7 @@ Està compost per llegum, verdures, fruites, peix, carn blanca, pasta, arròs i 
 
 ## Quina és la seva finalitat?
 
-La seva finalitat es aportar-nos beneficis com per exemple el rendiment a l’hora de fer exercici físic, per tant també ens ajuda a baixar de pes, controlar la pressió arterial i la hipercolesterolemia.La pratica d’excersisi ens ajuda a prevenir la diabetes o el alzheimer.
+La seva finalitat és aportar-nos beneficis com per exemple el rendiment a l'hora de fer exercici físic, per tant, també ens ajuda a baixar de pes, controlar la pressió arterial i la hipercolesterolèmia. La pràctica d'exercici ens ajuda a prevenir la diabetis o l'alzheimer.
 
 ## Quan va aparèixer?
 
@@ -29,7 +29,7 @@ Experts confirmen que la dieta mediterrània està associada a una major longevi
 
 ### El mercat transparent
 ## D’on procedeixen les verdures i fruites que consumiu a casa? On compreu habitualment?
-Els aliments que consumim a les nostres cases procedeixen de les fruteries que la majoria compren els seus productes al mercabarna. Els aliments els comprem habitualment a les fruiteries, carnisseries i al mercat
+Els aliments que consumim a les nostres cases procedeixen de les fruiteries que la majoria compren els seus productes al Mercabarna. Els aliments els comprem habitualment a les fruiteries, carnisseries i al mercat
 
 ## D’on procedeix la carn que consumim? tenim opcions per elegir? i informació?
 La carn que comprem és produïda aquí mateix, la mateixa Catalunya és la primera productora de carn d'aus i les diferents carns provenen de països veïns.
@@ -40,7 +40,7 @@ La gran majoria del peix que comprem, procedeix de senegal i països al voltant 
 
 
 ## A casa nostra ens plantegem aquestes qüestions?, perquè creiem que les plantegem o que no les plantegem?
-No pensem en cap moment d’on prové el aliments. Crec que no les planteiem perque no pensem en les desavantatges que en pot aportar
+No pensem en cap moment d'on prové els aliments. Crec que no les plantegem perquè no pensem en els desavantatges que en pot aportar
 
 ### Trencant mites
 ## 1. No hi ha prou aliments per a tota la població mundial. Veritat o Fals?
