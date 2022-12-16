@@ -66,3 +66,37 @@ Fals. Cada cop podem triar menys. Les grans empreses de l’agroindústria i la 
 ##### 2n plat → Paellla 
 ##### postre →  tronja
 
+### FEM XARXA!
+
+## Què és la SOBIRANIA ALIMENTÀRIA i per què és important pel sector agrícola dels països.
+La sobirania alimentària són els productes que demanen els pobles als agrícoles. És important i essencial pels agrícoles perquè els fan saber que és el que desitja comprar la població. Els ajuda a cultivar els aliments que el poble demana i garanteixen vendre la seva collita. En cas que la sobirania no existeixi els agricultors sembrarien el que ells volen i potser no vendrien tota la seva collita i perdrien diners.
+
+##  Què és el comerç just?
+El comerç just és una forma alternativa de comerç que té com a objectiu canviar les relacions comercials entre els països rics industrialitzats (els consumidors) i els països en via de desenvolupament 
+
+-Assegurar als treballadors uns doblers justos per la feina que fan.
+-No acceptar que els nens facin feina, rebuig a l'explotació infantil.
+-Igualtat entre homes i dones.
+-Afavorir la realització de projectes de desenvolupament solidari en benefici de la comunitat.
+-Ser respectuosos amb el medi ambient.
+-No privilegiar els cultius d'exportació en perjudici dels cultius de consum local necessaris per a la població.
+-Estructures democràtiques.
+
+## Què són els TRANSGÈNICS? (arguments a favor i en contra)
+Els transgenics son aliments que han sigut modificats amb bacteris d’altres aliments o fins i tot d’animals com porcs.
+
+## A favor:
+
+-Aquests aliments estan sotmesos a molts estudis, pel qual pots garantir el fet que no "hi hauria" de tenir cap bacteri que et pugui perjudicar
+
+-Els aliments transgènics no et poden perjudicar perquè parteixen d'un aliment "normal"
+
+
+## En contra:
+
+-Grans empreses afirmen les conseqüències irreversibles de l'obtenció d'aliments transgènics. Com per exemple la contaminació tant del terra com la genètica dels aliments amb tòxics
+
+-L'experimentació d'aquestes bateries en aliments podrien provocar la resistència a 
+un gran tipus d'antibiòtics en aquestes bateries
+
+
