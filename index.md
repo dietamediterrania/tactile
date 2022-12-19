@@ -7,7 +7,7 @@ Instagram: [@dietameditarrania3r](https://www.tiktok.com/@dietameditarrania3r)
 
 Twitter: [@dietamediterrr](https://twitter.com/dietamediterrrr)
 
-![Octocat](/docs/logo.PNG)
+![Octocat](/docs/logo.png)
 
 ### Introducció
 
