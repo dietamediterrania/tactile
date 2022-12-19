@@ -2,7 +2,9 @@
 Edu, Claudia, Sara, Jean Carlos, Nora
 
 Tik Tok: [@dietameditarrania3r](https://www.tiktok.com/@dietameditarrania3r)
+
 Instagram: [@dietameditarrania3r](https://www.tiktok.com/@dietameditarrania3r)
+
 Twitter: [@dietamediterrr](https://twitter.com/dietamediterrrr)
 
 ![Octocat](/docs/Dieta.png)
