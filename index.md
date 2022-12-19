@@ -1,5 +1,5 @@
 ### La dieta mediterrània
-Edu, Claudia, Sara, Jean Carlos
+Edu, Claudia, Sara, Jean Carlos, Nora
 
 Tik Tok: [@dietameditarrania3r](https://www.tiktok.com/@dietameditarrania3r)
 
