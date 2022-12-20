@@ -16,9 +16,13 @@ Twitter: [@dietamediterrr](https://twitter.com/dietamediterrrr)
 La dieta mediterrània és un tipus de dieta que és bassa en aliments tradicionals dels diferents països que envolten el mar Mediterrani.
 La finalitat d'aquesta dieta és complementar l'exercici físic i el clima dels països.
 
+<img src="https://o.remove.bg/downloads/17275281-7508-4b78-8eb2-2ba14d01cb7f/image-removebg-preview.png" width="350">
+
 ## De quins aliments està composat?
 
 Està compost per llegum, verdures, fruites, peix, carn blanca, pasta, arròs i fruits secs. A més del consum moderat de vi. Un dels productes que més recomana aquesta dieta és l'oli d'oliva, ja que gràcies als seus àcids redueix la possibilitat de problemes arterials i té un gran contingut de vitamina E
+
+<img src="https://o.remove.bg/downloads/21d0d3f3-1461-4db6-a05c-9aa639ae88ac/image-removebg-preview.png" width="350">
 
 ## Quina és la seva finalitat?
 
@@ -109,7 +113,8 @@ Els transgenics son aliments que han sigut modificats amb bacteris d’altres al
    · Aquests aliments estan sotmesos a molts estudis, pel qual pots garantir el fet que no "hi hauria" de tenir cap bacteri que et pugui perjudicar
 
    · Els aliments transgènics no et poden perjudicar perquè parteixen d'un aliment "normal"
-
+   
+<img src="https://www.mipielsana.com/wp-content/uploads/2016/04/Manzana-transgenica.jpg" width="250">
 
 ##      En contra:
 
