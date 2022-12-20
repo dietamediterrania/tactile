@@ -5,7 +5,7 @@ Tik Tok: [@dietameditarrania3r](https://www.tiktok.com/@dietameditarrania3r)
 
 Instagram: [@dietaamediterrania](https://www.instagram.com/dietaamediterrania/)
 
-Twitter: [@dietamediterrr](https://twitter.com/dietamediterrrr)
+Twitter: [@dietamediterrr](https://twitter.com/dietamediterrr)
 
 <img src="https://github.com/dietamediterrania/tactile/blob/master/docs/logo.png?raw=true" width="350">
 
