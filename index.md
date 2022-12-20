@@ -69,19 +69,19 @@ Fals. Cada cop podem triar menys. Les grans empreses de l’agroindústria i la 
 ## MENÚ (aperitiu + 2 plats + postre)
 
 ##### aperitiu →  Fruts secs
-<img src="https://github.com/dietamediterrania/tactile/blob/master/docs/frutos.png" width="100">
+<img src="https://img2.freepng.es/20180417/die/kisspng-mixed-nuts-food-dried-fruit-dry-fruit-5ad6ad0187b8f6.5432736015240184335559.jpg" width="100">
 
 
 ##### 1r plat →  Gaspatxo
-<img src="https://github.com/dietamediterrania/tactile/blob/master/docs/gaspacho.png" width="100">
+<img src="https://www.kindpng.com/picc/m/121-1219462_gazpacho-hd-png-download.png" width="100">
 
 
 ##### 2n plat → Paella
-<img src="https://github.com/dietamediterrania/tactile/blob/master/docs/paella.png" width="100">
+<img src="https://img2.freepng.es/20180508/daw/kisspng-spanish-cuisine-paella-spain-spanish-omelette-tapa-5af18d22d40378.8778290115257797468684.jpg" width="100">
 
 
-##### postre →  Macedoniaaa
-<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.WdsacEhtHTvLaXtxi6GBqAHaFj%26pid%3DApi&f=1&ipt=c8e5528dc7da5df5cc91ff99bb7df6ceb2f94332aa7692f402d40293f03d08e0&ipo=images" width="100">
+##### postre →  Macedonia
+<img src="https://thumbs.dreamstime.com/b/macedonia-di-frutta-fresca-31038778.jpg" width="100">
 
 
 
