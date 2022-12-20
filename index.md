@@ -7,7 +7,7 @@ Instagram: [@dietaamediterrania](https://www.instagram.com/dietaamediterrania/)
 
 Twitter: [@dietamediterrr](https://twitter.com/dietamediterrrr)
 
-<img src=https://github.com/dietamediterrania/tactile/blob/master/docs/logo.png width="250">
+<img src="https://github.com/dietamediterrania/tactile/blob/master/docs/logo.png" width="250">
 
 ### Introducció
 
