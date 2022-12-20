@@ -68,16 +68,20 @@ Fals. Cada cop podem triar menys. Les grans empreses de l’agroindústria i la 
 ### UNA BONA DIETA ÉS EL SECRET...
 ## MENÚ (aperitiu + 2 plats + postre)
 
-##### aperitiu →  Fruts secs<img src="https://github.com/dietamediterrania/tactile/blob/master/docs/frutos.png" width="100">
+##### aperitiu →  Fruts secs
+<img src="https://github.com/dietamediterrania/tactile/blob/master/docs/frutos.png" width="100">
 
 
-##### 1r plat →  Gaspatxo<img src="https://github.com/dietamediterrania/tactile/blob/master/docs/gaspacho.png" width="100">
+##### 1r plat →  Gaspatxo
+<img src="https://github.com/dietamediterrania/tactile/blob/master/docs/gaspacho.png" width="100">
 
 
-##### 2n plat → Paella<img src="https://github.com/dietamediterrania/tactile/blob/master/docs/paella.png" width="100">
+##### 2n plat → Paella
+<img src="https://github.com/dietamediterrania/tactile/blob/master/docs/paella.png" width="100">
 
 
-##### postre →  Macedonia<img src="https://github.com/dietamediterrania/tactile/blob/master/docs/macediona.png" width="100">
+##### postre →  Macedonia
+<img src="https://github.com/dietamediterrania/tactile/blob/master/docs/macediona.png" width="100">
 
 
 
