@@ -7,7 +7,7 @@ Instagram: [@dietaamediterrania](https://www.instagram.com/dietaamediterrania/)
 
 Twitter: [@dietamediterrr](https://twitter.com/dietamediterrrr)
 
-![Octocat](/docs/logo.png)
+<img src="https://github.com/dietamediterrania/tactile/blob/master/docs/logo.png" width="250">
 
 ### Introducció
 
@@ -16,7 +16,7 @@ Twitter: [@dietamediterrr](https://twitter.com/dietamediterrrr)
 La dieta mediterrània és un tipus de dieta que és bassa en aliments tradicionals dels diferents països que envolten el mar Mediterrani.
 La finalitat d'aquesta dieta és complementar l'exercici físic i el clima dels països.
 
-## De quins aliments està compost?
+## De quins aliments està composat?
 
 Està compost per llegum, verdures, fruites, peix, carn blanca, pasta, arròs i fruits secs. A més del consum moderat de vi. Un dels productes que més recomana aquesta dieta és l'oli d'oliva, ja que gràcies als seus àcids redueix la possibilitat de problemes arterials i té un gran contingut de vitamina E
 
@@ -77,7 +77,7 @@ Fals. Cada cop podem triar menys. Les grans empreses de l’agroindústria i la 
 ##### 2n plat → Paella<img src="https://github.com/dietamediterrania/tactile/blob/master/docs/paella.png" width="100">
 
 
-##### postre →  Macedonia<img src="https://github.com/dietamediterrania/tactile/blob/master/docs/macedonia.png" width="100">
+##### postre →  Macedonia<img src="https://github.com/dietamediterrania/tactile/blob/master/docs/macediona.png" width="100">
 
 
 
