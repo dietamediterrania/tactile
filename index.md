@@ -7,7 +7,7 @@ Instagram: [@dietaamediterrania](https://www.instagram.com/dietaamediterrania/)
 
 Twitter: [@dietamediterrr](https://twitter.com/dietamediterrrr)
 
-<img src="https://github.com/dietamediterrania/tactile/blob/master/docs/logo.png" width="250">
+<img src=https://github.com/dietamediterrania/tactile/blob/master/docs/logo.png width="250">
 
 ### Introducció
 
@@ -69,19 +69,19 @@ Fals. Cada cop podem triar menys. Les grans empreses de l’agroindústria i la 
 ## MENÚ (aperitiu + 2 plats + postre)
 
 ##### aperitiu →  Fruts secs
-<img src="https://github.com/dietamediterrania/tactile/blob/master/docs/frutos.png" width="100">
+<img src=https://github.com/dietamediterrania/tactile/blob/master/docs/frutos.png width="100">
 
 
 ##### 1r plat →  Gaspatxo
-<img src="https://github.com/dietamediterrania/tactile/blob/master/docs/gaspacho.png" width="100">
+<img src=https://github.com/dietamediterrania/tactile/blob/master/docs/gaspacho.png width="100">
 
 
 ##### 2n plat → Paella
-<img src="https://github.com/dietamediterrania/tactile/blob/master/docs/paella.png" width="100">
+<img src=https://github.com/dietamediterrania/tactile/blob/master/docs/paella.png width="100">
 
 
 ##### postre →  Macedonia
-<img src="https://github.com/dietamediterrania/tactile/blob/master/docs/macediona.png" width="100">
+<img src=https://github.com/dietamediterrania/tactile/blob/master/docs/macediona.png width="100">
 
 
 
