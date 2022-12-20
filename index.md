@@ -73,18 +73,22 @@ Fals. Cada cop podem triar menys. Les grans empreses de l’agroindústria i la 
 ## MENÚ (aperitiu + 2 plats + postre)
 
 ##### aperitiu →  Fruts secs
+
 <img src="https://o.remove.bg/downloads/634d43af-0745-45ca-9794-ed10c6d18b43/image-removebg-preview.png" width="100">
 
 
 ##### 1r plat →  Gaspatxo
+
 <img src="https://o.remove.bg/downloads/0b7001f0-382d-454a-8436-34136b8f1a31/image-removebg-preview.png" width="100">
 
 
 ##### 2n plat → Paella
+
 <img src="https://o.remove.bg/downloads/f02d228c-8ade-46e1-a5c4-de63dfff276b/image-removebg-preview.png" width="100">
 
 
 ##### postre →  Macedonia
+
 <img src="https://o.remove.bg/downloads/5ae6a400-6535-4f84-9ac3-7c62658058a1/image-removebg-preview.png" width="100">
 
 
@@ -121,7 +125,7 @@ Els transgenics son aliments que han sigut modificats amb bacteris d’altres al
    · Grans empreses afirmen les conseqüències irreversibles de l'obtenció d'aliments transgènics. Com per exemple la contaminació tant del terra com la genètica             dels aliments amb tòxics
 
    · L'experimentació d'aquestes bateries en aliments podrien provocar la resistència a 
-    un gran tipus d'antibiòtics en aquestes bateries
+    un gran tipus d'antibiòtics en aquestes bateries.
     
     
     
