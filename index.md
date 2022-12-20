@@ -79,7 +79,7 @@ Fals. Cada cop podem triar menys. Les grans empreses de l’agroindústria i la 
 
 ##### 1r plat →  Gaspatxo
 
-
+<img src="https://o.remove.bg/downloads/0b7001f0-382d-454a-8436-34136b8f1a31/image-removebg-preview.png" width="100">
 
 
 ##### 2n plat → Paella
