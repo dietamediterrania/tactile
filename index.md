@@ -80,7 +80,7 @@ Fals. Cada cop podem triar menys. Les grans empreses de l’agroindústria i la 
 <img src="https://github.com/dietamediterrania/tactile/blob/master/docs/paella.png" width="100">
 
 
-##### postre →  Macedonia
+##### postre →  Macedoniaaa
 <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.WdsacEhtHTvLaXtxi6GBqAHaFj%26pid%3DApi&f=1&ipt=c8e5528dc7da5df5cc91ff99bb7df6ceb2f94332aa7692f402d40293f03d08e0&ipo=images" width="100">
 
 
